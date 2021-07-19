@@ -7,4 +7,4 @@ My contributions in this project were training various decision tree ensembles, 
 
 `EmployeeAttrition_4248_SMOTE.R` means that the models were trained using SMOTE, which showed much more promising results.
 
-Metrics used were accuracy, sensitivity, specificity and AUC score (area under curve).
+`Final Report.pdf` and `Presentation Slides.pdf` are the final report and slides that we did for this machine learning project respectively.
